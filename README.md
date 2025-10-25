@@ -1,7 +1,1 @@
-# Printer Troubleshooting (Print management,clear job queue) 
-<img width="947" height="725" alt="image" src="https://github.com/user-attachments/assets/5509be2b-8582-44e6-aad5-76f0c6731a90" />   </p>  
-After using remote desktop to log into my jobs print server (I did not do that here but that is what would need to happen) goint to windows start, typing/opening print management, right clicking on the print server (which would be the jobs server) I can click to add the users printer whhile on call. </p> </p> 
-<img width="672" height="591" alt="image" src="https://github.com/user-attachments/assets/29e086fc-7753-4d7c-a588-1583e84b2b84" /> </p> </p> 
-After clicking add printer, it would take me here where I would add the printer by IP address. <p/> <p/> 
-<img width="716" height="499" alt="image" src="https://github.com/user-attachments/assets/360263ea-2ab5-4fd3-b156-599eae8bbcf9" /> <p/> </P> 
-Here is were I would put the IP address from the user while on the call. Then I would put the correct driver for the printer model which I would ask the user for the model of the printer, ask for the name, share this printer, and click finish.after adding the users printer I would then right click on the users printer name and open printe queue to see any jobs stuck in the queue. If there is a job stuck there I would right click the job, when the pop appears I can click cancle to remove all jobs stuck. After clearing the queue I can send the job back and ask if the users printer is working again. 
+
