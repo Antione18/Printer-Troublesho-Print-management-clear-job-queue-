@@ -5,7 +5,10 @@
 - Step 2: Configure Depertments
 - Step 3: Configure Teams
 - Step 4: Allow Ticket Creation for Unregistered Users
-- Step 5: Configuring Agents
+- Step 5: Configure Agents
+- Step 6: Configure Users
+- Step 7: Configure SLA
+- Step 8: Configure Help Topics
 # Technologies & Enviorments used 
 - Macbook Pro running Windows 10 
 # Demonstration Steps & Media
@@ -45,6 +48,26 @@
 <img width="644" height="516" alt="20  " src="https://github.com/user-attachments/assets/07e884dc-9880-432b-b4e7-bb33e0b64d3c" />
 <img width="647" height="524" alt="19" src="https://github.com/user-attachments/assets/30d8dd9c-d8bb-4b72-b789-496417530a77" />
 <img width="752" height="429" alt="21  " src="https://github.com/user-attachments/assets/3f0490f0-f632-415e-9630-a8b3b0201986" />
+
+# Step 6: configure Users
+- first I go to the agent panal, users, click add new user, fill out their information, and create user. 
+<img width="865" height="353" alt="22  configure users" src="https://github.com/user-attachments/assets/c9ee8b2c-d16f-4e32-9041-3ac87e5d5ff3" />
+<img width="741" height="520" alt="23  " src="https://github.com/user-attachments/assets/19411567-c8f8-4b1f-866b-68ac71ca329d" />
+<img width="926" height="372" alt="24  " src="https://github.com/user-attachments/assets/5d78e1ab-e74a-44f9-94a7-f4722b79885b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
