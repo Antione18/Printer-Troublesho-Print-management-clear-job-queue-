@@ -25,3 +25,9 @@
 <img width="852" height="436" alt="10  configure teams " src="https://github.com/user-attachments/assets/fe0e6a7d-95a9-405e-82e4-90120a56fb95" />
 <img width="817" height="533" alt="11  " src="https://github.com/user-attachments/assets/dc43e6fd-fbdd-4ea6-81bd-8f9425c39f5d" />
 <img width="678" height="501" alt="12  " src="https://github.com/user-attachments/assets/396667f7-c56f-4284-9112-7c71f28e8d69" />
+
+# Step 4: Allowing Ticket Creation for Unregistered Users
+- First in the admin panal I go to settings, user settings, and uncheck unregistered can create ticket.
+<img width="778" height="464" alt="13  unregistered tickets users " src="https://github.com/user-attachments/assets/5bc5a4ef-8733-4689-af2b-568eff19964c" />
+<img width="554" height="315" alt="14  " src="https://github.com/user-attachments/assets/2616d7fa-3093-4c62-a940-5bcb27f5eb79" />
+<img width="709" height="360" alt="15  " src="https://github.com/user-attachments/assets/548d9871-9cfe-4dad-8359-004c017b689a" />
