@@ -55,8 +55,21 @@
 <img width="741" height="520" alt="23  " src="https://github.com/user-attachments/assets/19411567-c8f8-4b1f-866b-68ac71ca329d" />
 <img width="926" height="372" alt="24  " src="https://github.com/user-attachments/assets/5d78e1ab-e74a-44f9-94a7-f4722b79885b" />
 
+# Step 7: Configure SLA
+- First I go to the admin panal, manage, SLA, clcik add new SLA, then I can fill out and change the name, grace hours and schedual all depending on the severity of the ticket.  
+<img width="817" height="412" alt="25  configuring SLA" src="https://github.com/user-attachments/assets/2255a147-16e7-4bc4-8f08-a7b1c0740b73" />
+<img width="763" height="494" alt="27  " src="https://github.com/user-attachments/assets/bb51869d-19a7-4ae5-b35b-50b401b7159f" />
+<img width="874" height="443" alt="28  " src="https://github.com/user-attachments/assets/b508da36-32d9-48cb-940b-145343d9fd96" />
 
 
+
+
+
+
+
+
+# Step 8: Configure Help Topics
+- 
 
 
 
