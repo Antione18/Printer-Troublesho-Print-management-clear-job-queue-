@@ -19,3 +19,9 @@
 <img width="964" height="461" alt="7  configuring departments" src="https://github.com/user-attachments/assets/51323918-df6e-42f0-827b-2f2f1d733abf" />
 <img width="764" height="511" alt="8  " src="https://github.com/user-attachments/assets/dfda100f-7943-460f-9ef3-ceb28b51d78b" />
 <img width="676" height="336" alt="9  " src="https://github.com/user-attachments/assets/04a8403c-83ab-4dea-b292-862e9a211886" /> 
+
+# Step 3: Configure Teams
+- From the admin panal I go to agents, Teams, click add new team, fill out the name and information, and I create new team.
+<img width="852" height="436" alt="10  configure teams " src="https://github.com/user-attachments/assets/fe0e6a7d-95a9-405e-82e4-90120a56fb95" />
+<img width="817" height="533" alt="11  " src="https://github.com/user-attachments/assets/dc43e6fd-fbdd-4ea6-81bd-8f9425c39f5d" />
+<img width="678" height="501" alt="12  " src="https://github.com/user-attachments/assets/396667f7-c56f-4284-9112-7c71f28e8d69" />
