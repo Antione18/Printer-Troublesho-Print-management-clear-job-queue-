@@ -1,6 +1,11 @@
 # osTicket Configuration 
 # Summary/Description  
-- In this project I am configuring ostTicket. 
+- In this project I am configuring ostTicket.
+- Step 1: Configure Roles
+- Step 2: Configure Depertments
+- Step 3: Configure Teams
+- Step 4: Allow Ticket Creation for Unregistered Users
+- Step 5: Configuring Agents
 # Technologies & Enviorments used 
 - Macbook Pro running Windows 10 
 # Demonstration Steps & Media
@@ -31,3 +36,24 @@
 <img width="778" height="464" alt="13  unregistered tickets users " src="https://github.com/user-attachments/assets/5bc5a4ef-8733-4689-af2b-568eff19964c" />
 <img width="554" height="315" alt="14  " src="https://github.com/user-attachments/assets/2616d7fa-3093-4c62-a940-5bcb27f5eb79" />
 <img width="709" height="360" alt="15  " src="https://github.com/user-attachments/assets/548d9871-9cfe-4dad-8359-004c017b689a" />
+
+# Step 5: Configuring Agents 
+- First in admin panal I go to agents, click add new angent, fill out personal agent information, click access to select the department and role to assigne them   to, then permisions to assigne permissions, then teams to assigne what team the'er on, and lastly create agent.
+<img width="961" height="453" alt="16  configuring agents" src="https://github.com/user-attachments/assets/7bf2d06b-2036-49b2-877a-18f21ba70f69" />
+<img width="793" height="542" alt="17  " src="https://github.com/user-attachments/assets/d12bb075-d10b-42b8-9df9-5a0d5b36d7d5" />
+<img width="609" height="488" alt="18  " src="https://github.com/user-attachments/assets/6ad4b9e7-cb79-4180-8223-0ca873034a06" />
+<img width="644" height="516" alt="20  " src="https://github.com/user-attachments/assets/07e884dc-9880-432b-b4e7-bb33e0b64d3c" />
+<img width="647" height="524" alt="19" src="https://github.com/user-attachments/assets/30d8dd9c-d8bb-4b72-b789-496417530a77" />
+<img width="752" height="429" alt="21  " src="https://github.com/user-attachments/assets/3f0490f0-f632-415e-9630-a8b3b0201986" />
+
+
+
+
+
+
+
+
+
+
+
+
