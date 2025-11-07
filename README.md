@@ -15,4 +15,7 @@
 <img width="771" height="491" alt="6  " src="https://github.com/user-attachments/assets/cba19363-a43d-4837-b5f8-2d9378bef33b" />
 
 # Step 2: Configure Deprtments
-- First while still in the admin panal I go to agents, then departments, 
+- First while still in the admin panal I go to agents, then departments, click add new department, and I can fill out the level, name and everything else, and create a new department. 
+<img width="964" height="461" alt="7  configuring departments" src="https://github.com/user-attachments/assets/51323918-df6e-42f0-827b-2f2f1d733abf" />
+<img width="764" height="511" alt="8  " src="https://github.com/user-attachments/assets/dfda100f-7943-460f-9ef3-ceb28b51d78b" />
+<img width="676" height="336" alt="9  " src="https://github.com/user-attachments/assets/04a8403c-83ab-4dea-b292-862e9a211886" /> 
