@@ -61,15 +61,11 @@
 <img width="763" height="494" alt="27  " src="https://github.com/user-attachments/assets/bb51869d-19a7-4ae5-b35b-50b401b7159f" />
 <img width="874" height="443" alt="28  " src="https://github.com/user-attachments/assets/b508da36-32d9-48cb-940b-145343d9fd96" />
 
-
-
-
-
-
-
-
 # Step 8: Configure Help Topics
-- 
+- First I go to admin panal, manage, help topics, click add new help topic, then I fill out the necessary information 
+<img width="905" height="370" alt="29  configure help topics " src="https://github.com/user-attachments/assets/e533ef5b-2af3-4209-8005-f5c42c2cbc19" />
+<img width="770" height="432" alt="30  " src="https://github.com/user-attachments/assets/403526b3-bebe-4bd9-b092-1a51dcdf505a" />
+<img width="652" height="470" alt="31  " src="https://github.com/user-attachments/assets/ae9a0971-f812-4970-81c2-f678b6df9206" />
 
 
 
