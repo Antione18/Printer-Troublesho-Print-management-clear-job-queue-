@@ -13,3 +13,6 @@
 <img width="371" height="393" alt="4  " src="https://github.com/user-attachments/assets/7affb53b-ab24-493b-85fd-8efb11aecfc6" />
 <img width="542" height="364" alt="5  " src="https://github.com/user-attachments/assets/09dee1cf-7238-4232-a27c-a58a7805aafd" />
 <img width="771" height="491" alt="6  " src="https://github.com/user-attachments/assets/cba19363-a43d-4837-b5f8-2d9378bef33b" />
+
+# Step 2: Configure Deprtments
+- First while still in the admin panal I go to agents, then departments, 
