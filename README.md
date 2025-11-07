@@ -6,7 +6,7 @@
 # Demonstration Steps & Media
 
 # Step 1: Configure Roles
-- First I log on to the osTicket staff control page, then I click the admin panal, then agents, then roles, from their I can add a role, to add a role I click add role, make a name, click permissions, and set permissions for tickets, taskes and knowledgebase.
+- First I log on to the osTicket staff control page, then I click the admin panal, then agents, then roles, from there I can add a role, to add a role I click add role, make a name, click permissions, and set permissions for tickets, taskes and knowledgebase.
 <img width="1055" height="649" alt="1  configuring roles " src="https://github.com/user-attachments/assets/ddc3433e-483e-4f27-a6d5-752989c8398e" />
 <img width="846" height="486" alt="2" src="https://github.com/user-attachments/assets/4cf23d04-6b2b-406a-bfc2-113e1bb29861" />
 <img width="539" height="572" alt="3  " src="https://github.com/user-attachments/assets/709b6c8e-56b2-436a-a7b7-86621497fc40" />
